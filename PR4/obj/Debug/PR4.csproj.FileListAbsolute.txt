@@ -1,0 +1,13 @@
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.csproj.GenerateResource.cache
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\bin\Debug\PR4.exe.config
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\bin\Debug\PR4.exe
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\bin\Debug\PR4.pdb
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.exe
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.pdb
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.Buses.resources
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.Form2.resources
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\bin\Debug\AlphaBlendTextBox.dll
+D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\PR4\obj\Debug\PR4.csproj.CopyComplete
